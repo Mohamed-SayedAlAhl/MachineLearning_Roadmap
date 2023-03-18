@@ -144,6 +144,7 @@ if your forked version is behind my repo you will need to sync it to get the lat
  - [ ]  [RapidAPI course](https://rapidapi.com/courses/build-and-sell-your-own-api)
  - [ ]  [Dataquest API course](https://www.dataquest.io/course/apis-and-scraping/)
  - [ ]  [Dataquest API Blog](https://www.dataquest.io/blog/python-api-tutorial/)
+ - [ ]  [RestAPI course](https://rapidapi.com/learn/rest)
  
  ### SQl
 courses:
@@ -198,6 +199,7 @@ courses:
   - [ ]  [The Data Visualisation Blog](https://blog.datawrapper.de/colors/)  **(Recommended)**
   - [ ]  [color blindness simulator](https://www.color-blindness.com/coblis-color-blindness-simulator/)
   - [ ]  [colorbrewer2](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3)
+  
  Books:
   - [ ] Storytelling with Data A Data Visualization Guide for Business Professionals 
   - [ ] Power BI DAX Simplified DAX and calculation language of Power BI demystified by practical examples
