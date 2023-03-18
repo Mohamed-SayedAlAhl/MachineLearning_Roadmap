@@ -56,11 +56,20 @@ if your forked version is behind my repo you will need to sync it to get the lat
   - [ ] [introduction-to-probability](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/)
   - [ ] [intro to satstics Stanford](https://www.coursera.org/learn/stanford-statistics)
   - [ ] [satstics MIT](https://ocw.mit.edu/courses/18-650-statistics-for-applications-fall-2016/)
+  - [ ] [Information Theory](https://www.youtube.com/playlist?list=PLruBu5BI5n4aFpG32iMbdWoRVAA-Vcso6)
   - [ ] [Discrete Math](https://www.youtube.com/playlist?list=PLxIvc-MGOs6gZlMVYOOEtUHJmfUquCjwz)  **(Arabic)**
   - [ ] [Probability and Statistics](https://www.youtube.com/playlist?list=PLxIvc-MGOs6gW9SgkmoxE5w9vQkID1_r-)     **(Arabic)**
   
    Build intuition:
+   
   - [ ] [3 Blue 1 Brown](https://www.3blue1brown.com/#lessons)
+  - [ ] [Serrano Academy](https://serrano.academy/)
+  - [ ] [immersive math](http://immersivemath.com/ila/index.html)
+  - [ ] [mathsisfun](https://mathsisfun.com/)
+  - [ ] [seeing-theory](https://seeing-theory.brown.edu/index.html#firstPage)
+  - [ ] [XMath](http://www.xaktly.com/XMathMain.html)
+  - [ ] [Explained Visually](https://setosa.io/ev/)
+  
   
   Books:
   - [ ] Essential Math for Data Science Take Control of Your Data
@@ -77,6 +86,10 @@ if your forked version is behind my repo you will need to sync it to get the lat
   - [ ] [sheet for problem solving](https://docs.google.com/spreadsheets/d/1iJZWP2nS_OB3kCTjq8L6TrJJ4o-5lhxDOyTaocSYc-k/edit#gid=1160016643)
   - [ ] [Creative Problem Solving and Decision Making](https://www.edx.org/course/creative-problem-solving-and-decision-making)
   
+  Blog:
+  
+  - [ ] [Problem Solving using Search Algorithms for Beginners]( https://www.analyticsvidhya.com/blog/2021/10/an-introduction-to-problem-solving-using-search-algorithms-for-beginners/)
+ 
   Books:
   
    - [ ]  Learn to Code by Solving Problems A Python Programming Primer
@@ -118,6 +131,7 @@ if your forked version is behind my repo you will need to sync it to get the lat
  - [ ]  [Xml Essential Training LinkedIn Learning](https://www.linkedin.com/learning/xml-essential-training-2)
  - [ ]  [XML w3school Tutorial](https://www.w3schools.com/xml/default.asp)
  - [ ]  [Json w3school Tutorial](https://www.w3schools.com/js/js_json_intro.asp)
+ - [ ]  [API Data Exchange: XML vs. JSON Blog](https://www.tibco.com/blog/2014/01/23/api-data-exchange-xml-vs-json/)
  - [ ]  [Api Documentation with Json And XML LinkedIN Learning](https://www.linkedin.com/learning/learn-api-documentation-with-json-and-xml)
  
 ### WebScraping
@@ -167,11 +181,26 @@ courses:
 **learn powerful visualization tools :**
  - [ ]  [tableau](https://www.tableau.com/learn)
  - [ ]  [tableau Udacity](https://www.udacity.com/course/data-visualization-in-tableau--ud1006)
+ - [ ]  [Beginners guide to Power Bi]( https://www.enterprisedna.co/courses/ultimate-beginners-guide-to-power-bi/)
+
  - [ ]  [powerBI](https://powerbi.microsoft.com/en-us/learning/)
  - [ ]  [D3 visualization] Interactive Data Visualization for the Web (BOOK)
  
  Build intuition:
+ 
+ 
+  - [ ]  [Top notch PowerBI projects ](https://www.novypro.com/inspiration)
   - [ ]  [pinterest Dashboard Examples](https://www.pinterest.com/gaolingyun21/dashboard/)
+  - [ ]  [The Data Visualisation Catalogue](https://datavizcatalogue.com/#google_vignette)
+  - [ ]  [what makes a good data visualization](https://www.informationisbeautiful.net/visualizations/what-makes-a-good-data-visualization/)
+  - [ ]  [color palette](https://coolors.co/)
+  - [ ]  [The Data Visualisation Blog](https://blog.datawrapper.de/colors/)  **(Recommended)**
+  - [ ]  [The Data Visualisation Catalogue](https://datavizcatalogue.com/#google_vignette)
+  
+  
+  https://www.color-blindness.com/coblis-color-blindness-simulator/
+  https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3
+  
   
  Books:
   - [ ] Storytelling with Data A Data Visualization Guide for Business Professionals 
@@ -190,9 +219,11 @@ courses:
  2.
   - [ ]  [ML by Andrew NG](https://www.coursera.org/specializations/machine-learning-introduction) 
   OR 
+  
   2.
   - [ ]  [ML by kimia](https://www.youtube.com/playlist?list=PLZWvneBOrhoEWyByqPli18AScodr_MzEK)
  OR
+ 
  2.
   - [ ]  [Machine Learning for Intelligent System](https://www.youtube.com/playlist?list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS)
   
@@ -247,6 +278,7 @@ Books:
 - [ ] fast.ai - Free Course
     - [ ] [Practical Deep Learning for Coders Part 1](https://www.fast.ai/)
     - [ ] [Part 2](https://course.fast.ai/part2)
+    
    Tensorflow:
    - [ ] [Tensorflow in practice](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
    
@@ -271,6 +303,7 @@ Books:
    ### Machine Learning Engineering for Production
    - [ ] [MLOPs Specialization](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)
    - [ ] [MLOPs blog](https://neptune.ai/blog)
+     - [ ] [MLOPs repo](https://github.com/visenger/awesome-mlops#core-mlops)
    - [ ] [Cloud Computing Specialization](https://www.coursera.org/specializations/cloud-computing)
    
   Books:
@@ -357,6 +390,10 @@ OR
     - [ ] Datasets (develop own projects)
     - [ ] Competitions 
 
+
+## Want more Resources or focus on a particular area in ML!!
+
+- [ ] [deep learning drizzle](https://deep-learning-drizzle.github.io/index.html#mlfund)
 
 
  ## Interview preperastion
