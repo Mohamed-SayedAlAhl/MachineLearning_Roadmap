@@ -26,9 +26,11 @@ if your forked version is behind my repo you will need to sync it to get the lat
   Books:
   - [ ] Head First Python  A Brain-Friendly Guide
   - [ ] Python Crash Course, 3rd Edition by Eric Matthes
+  
   Get your hands dirty:
   - [ ] [programiz Become a python master](https://programiz.pro/learn/master-python)
   - [ ] [DataCamp python Developer](https://app.datacamp.com/learn/career-tracks/python-programmer)
+  
   ### Data structure:
    courses:
   - [ ] [computational-thinking-problem-solving University of Pennsylvania](https://www.coursera.org/learn/computational-thinking-problem-solving)
@@ -188,20 +190,14 @@ courses:
  
  Build intuition:
  
- 
   - [ ]  [Top notch PowerBI projects ](https://www.novypro.com/inspiration)
   - [ ]  [pinterest Dashboard Examples](https://www.pinterest.com/gaolingyun21/dashboard/)
   - [ ]  [The Data Visualisation Catalogue](https://datavizcatalogue.com/#google_vignette)
   - [ ]  [what makes a good data visualization](https://www.informationisbeautiful.net/visualizations/what-makes-a-good-data-visualization/)
   - [ ]  [color palette](https://coolors.co/)
   - [ ]  [The Data Visualisation Blog](https://blog.datawrapper.de/colors/)  **(Recommended)**
-  - [ ]  [The Data Visualisation Catalogue](https://datavizcatalogue.com/#google_vignette)
-  
-  
-  https://www.color-blindness.com/coblis-color-blindness-simulator/
-  https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3
-  
-  
+  - [ ]  [color blindness simulator](https://www.color-blindness.com/coblis-color-blindness-simulator/)
+  - [ ]  [colorbrewer2](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3)
  Books:
   - [ ] Storytelling with Data A Data Visualization Guide for Business Professionals 
   - [ ] Power BI DAX Simplified DAX and calculation language of Power BI demystified by practical examples
@@ -218,10 +214,13 @@ courses:
   
  2.
   - [ ]  [ML by Andrew NG](https://www.coursera.org/specializations/machine-learning-introduction) 
+  
   OR 
+  
   
   2.
   - [ ]  [ML by kimia](https://www.youtube.com/playlist?list=PLZWvneBOrhoEWyByqPli18AScodr_MzEK)
+  
  OR
  
  2.
@@ -240,6 +239,7 @@ Books:
   - [ ] Python Machine Learning - Sebastian Raschka
   
   OR
+  
   - [ ] Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow - Aurélien Géron first half
   
   But if you choose the second one you should take this Book before reading it:
@@ -265,6 +265,7 @@ Books:
  - [ ]  [Time Series Kaggle](https://www.kaggle.com/learn/time-series)
  
  ## Deep Learning
+ 
  Courses:
 - [ ] [Stanford Lectures - Convolutional Neural Networks for Visual Recognition](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 - [ ] [Carnegie Mellon Deep Learning](https://www.youtube.com/playlist?list=PLp-0K3kfddPxRmjgjm0P1WT6H-gTqE8j9)
@@ -274,7 +275,8 @@ Books:
 - [ ] Learn PyTorch (or Tensorflow)
  Pytorch
   - [ ] [pytorch.org official Tutorials](https://pytorch.org/tutorials/)
-    - [ ] [PyTorch Free Course on YouTube (Python Engineer)](https://www.youtube.com/watch?v=EMXfZB8FVUA&list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4)
+  - [ ] [PyTorch Free Course on YouTube (Python Engineer)](https://www.youtube.com/watch?v=EMXfZB8FVUA&list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4)
+  
 - [ ] fast.ai - Free Course
     - [ ] [Practical Deep Learning for Coders Part 1](https://www.fast.ai/)
     - [ ] [Part 2](https://course.fast.ai/part2)
@@ -292,6 +294,7 @@ Books:
  - [ ] Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow - Aurélien Géron second half
  
    ### Deployment
+   
    - [ ] [TensorFlow: Deployment Specialization](https://www.coursera.org/specializations/tensorflow-data-and-deployment)
    - [ ] [Model Deployment Blog](https://thecleverprogrammer.com/2021/02/22/model-deployment-in-machine-learning/)
    - [ ] [Flask tutorial for deployment medium](https://towardsdatascience.com/deploying-a-deep-learning-model-using-flask-3ec166ef59fb)
@@ -303,7 +306,8 @@ Books:
    ### Machine Learning Engineering for Production
    - [ ] [MLOPs Specialization](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)
    - [ ] [MLOPs blog](https://neptune.ai/blog)
-     - [ ] [MLOPs repo](https://github.com/visenger/awesome-mlops#core-mlops)
+   - [ ] [MLOPs repo](https://github.com/visenger/awesome-mlops#core-mlops)
+   
    - [ ] [Cloud Computing Specialization](https://www.coursera.org/specializations/cloud-computing)
    
   Books:
