@@ -128,25 +128,8 @@ if your forked version is behind my repo you will need to sync it to get the lat
   Books:
   - [ ] Python for Data Analysis Data Wrangling By the creator of pandas library
   
- ### XML & Json (optional)
- courses:
- - [ ]  [Xml Essential Training LinkedIn Learning](https://www.linkedin.com/learning/xml-essential-training-2)
- - [ ]  [XML w3school Tutorial](https://www.w3schools.com/xml/default.asp)
- - [ ]  [Json w3school Tutorial](https://www.w3schools.com/js/js_json_intro.asp)
- - [ ]  [API Data Exchange: XML vs. JSON Blog](https://www.tibco.com/blog/2014/01/23/api-data-exchange-xml-vs-json/)
- - [ ]  [Api Documentation with Json And XML LinkedIN Learning](https://www.linkedin.com/learning/learn-api-documentation-with-json-and-xml)
- 
-### WebScraping
- - [ ]  [Web Scraping DataCamp](https://app.datacamp.com/learn/courses/web-scraping-with-python)
- 
- ### APIs 
- - [ ]  [RapidAPI comic Book](https://rapidapi.com/comics)
- - [ ]  [RapidAPI course](https://rapidapi.com/courses/build-and-sell-your-own-api)
- - [ ]  [Dataquest API course](https://www.dataquest.io/course/apis-and-scraping/)
- - [ ]  [Dataquest API Blog](https://www.dataquest.io/blog/python-api-tutorial/)
- - [ ]  [RestAPI course](https://rapidapi.com/learn/rest)
- 
- ### SQl
+  
+   ### SQl
 courses:
  - [ ]  [Introduction to SQL](https://www.coursera.org/specializations/learn-sql-basics-data-science)
  - [ ]  [SQL Data Camp practice](https://app.datacamp.com/learn/courses/introduction-to-sql)
@@ -171,7 +154,25 @@ courses:
   Books (optional):
    - [ ] NoSQL Distilled: A Brief Guide to the Emerging World of Polyglot Persistence 
    - [ ] MongoDB: The Definitive Guide: Powerful and Scalable Data Storage 
-   
+  
+ ### XML & Json (optional)
+ courses:
+ - [ ]  [Xml Essential Training LinkedIn Learning](https://www.linkedin.com/learning/xml-essential-training-2)
+ - [ ]  [XML w3school Tutorial](https://www.w3schools.com/xml/default.asp)
+ - [ ]  [Json w3school Tutorial](https://www.w3schools.com/js/js_json_intro.asp)
+ - [ ]  [API Data Exchange: XML vs. JSON Blog](https://www.tibco.com/blog/2014/01/23/api-data-exchange-xml-vs-json/)
+ - [ ]  [Api Documentation with Json And XML LinkedIN Learning](https://www.linkedin.com/learning/learn-api-documentation-with-json-and-xml)
+ 
+### WebScraping
+ - [ ]  [Web Scraping DataCamp](https://app.datacamp.com/learn/courses/web-scraping-with-python)
+ 
+ ### APIs 
+ - [ ]  [RapidAPI comic Book](https://rapidapi.com/comics)
+ - [ ]  [RapidAPI course](https://rapidapi.com/courses/build-and-sell-your-own-api)
+ - [ ]  [Dataquest API course](https://www.dataquest.io/course/apis-and-scraping/)
+ - [ ]  [Dataquest API Blog](https://www.dataquest.io/blog/python-api-tutorial/)
+ - [ ]  [RestAPI course](https://rapidapi.com/learn/rest)
+ 
  ### Data Warehousing (optional)
  - [ ]  [IBM Data Warehousing](https://www.coursera.org/professional-certificates/data-warehouse-engineering?)
  - [ ]  [Colorado Data Warehousing Specialization](https://www.coursera.org/specializations/data-warehousing)
