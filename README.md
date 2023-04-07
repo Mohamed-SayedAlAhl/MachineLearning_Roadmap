@@ -128,7 +128,6 @@ if your forked version is behind my repo you will need to sync it to get the lat
   Books:
   - [ ] Python for Data Analysis Data Wrangling By the creator of pandas library
   
-  
    ### SQl
 courses:
  - [ ]  [Introduction to SQL](https://www.coursera.org/specializations/learn-sql-basics-data-science)
@@ -173,6 +172,7 @@ courses:
  - [ ]  [Dataquest API Blog](https://www.dataquest.io/blog/python-api-tutorial/)
  - [ ]  [RestAPI course](https://rapidapi.com/learn/rest)
  
+   
  ### Data Warehousing (optional)
  - [ ]  [IBM Data Warehousing](https://www.coursera.org/professional-certificates/data-warehouse-engineering?)
  - [ ]  [Colorado Data Warehousing Specialization](https://www.coursera.org/specializations/data-warehousing)
@@ -344,8 +344,18 @@ Books:
 
 OR
 
+
+
+
 - [ ] [Stanford Lecture- Reinforcement Learning](https://www.youtube.com/watch?v=FgzM3zpZ55o&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
 - [ ] [Reinforcement Learning Specialization](https://www.coursera.org/specializations/reinforcement-learning)
+- [ ] [Berkeley's CS 285: Deep Reinforcement Learning](https://www.youtube.com/playlist?list=PL_iWQOsE6TfXxKgI1GgyV1B_Xa0DxE5eH)
+
+
+Notes:
+
+
+- [ ] [Berkeley's CS 285: Deep Reinforcement Learning Slides](https://rail.eecs.berkeley.edu/deeprlcourse/)
 
 
  Books:
@@ -367,6 +377,8 @@ OR
   - [ ]  [https://staging.distill.pub/](https://staging.distill.pub/)
   - [ ]  [OpenAI microscope](https://openai.com/research/microscope)
   - [ ]  [Embedding Projector tensorflow](https://projector.tensorflow.org/)
+  
+  
   
  ## Version control
  courses:
