@@ -17,6 +17,11 @@ if your forked version is behind my repo you will need to sync it to get the lat
 
 ##  computer science intro:
 - [ ] [introduction to computer science using python](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
+
+  Build intuition:
+   
+  - [ ] [pythontutor](https://pythontutor.com/)
+
 ## programming
  ### Python
  courses:
